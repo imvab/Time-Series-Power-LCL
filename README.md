@@ -1,4 +1,6 @@
 # Time Series Analysis on the Power-LCL dataset
+#### Results
+![](index.png)
 #### What will I look into?
 - Skewness and Kurtosis of the distribution of power consumed
 - Quarterly, Yearly, Monthly consumption patterns
